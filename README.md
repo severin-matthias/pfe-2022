@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/severin-matthias/pfe-2022/tree/gh-pages) branch hosts the contents of this directory at <https://severin-matthias.github.io/pfe-2022/>.
-The permalink for this webpage version is <https://severin-matthias.github.io/pfe-2022/v/989fa3d1d0a36dd13f8c34ef7615f424766bc4fc/>.
+The permalink for this webpage version is <https://severin-matthias.github.io/pfe-2022/v/cda433eeebde963dc7902453f2455c1015c29cfd/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://severin-matthias.github.io/pfe-2022/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`989fa3d1d0a36dd13f8c34ef7615f424766bc4fc`](https://github.com/severin-matthias/pfe-2022/commit/989fa3d1d0a36dd13f8c34ef7615f424766bc4fc).
+[`cda433eeebde963dc7902453f2455c1015c29cfd`](https://github.com/severin-matthias/pfe-2022/commit/cda433eeebde963dc7902453f2455c1015c29cfd).
